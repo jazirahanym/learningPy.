@@ -1,2 +1,4 @@
-Print(Hello, world..!!!)
+Print(Hello, world..!!!)Everything will be good!
+
 Print(Hello, everybody!)
+
